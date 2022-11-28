@@ -4,7 +4,7 @@ With a functional Express.js API a I add my database name, MySQL username, and M
 I open API GET routes in Insomnia for categories, products, or tag the data for each of these routes is displayed in a formatted JSON. I test API POST, PUT, and DELETE routes in Insomnia and  am able to successfully create, update, and delete data in my database
 
 ## video
-
+https://www.youtube.com/watch?v=Bgrs3zWGsS8
 ## github
 https://github.com/Jacobschoenbauer/orm-ecommerce-backend
 ## photo
